@@ -1,4 +1,4 @@
-# Clinical-Trial
+# Clinical Trial 
 This project sought to provide valuable insights into the world of clinical research by combining clinical trial data with information on pharmaceutical companies.
 
 This analysis covered various aspects of clinical trials, including study types, common medical conditions, top sponsors, seasonal trends, compliance violations, and more. These insights are crucial for advancing evidence-based knowledge in drug development and patient treatments. 
